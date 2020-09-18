@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "403587030137",
+    "firebase_url": "https://mtp-weather.firebaseio.com",
+    "project_id": "mtp-weather",
+    "storage_bucket": "mtp-weather.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:403587030137:android:47a9869e0d7f317acf08a8",
+        "android_client_info": {
+          "package_name": "mtp_weather.revmatcher"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "403587030137-nhc3rl6bh51jjitj9rd3879hmu8rh61s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mtp_weather.revmatcher",
+            "certificate_hash": "01bf004d2b8064e49958d5eb8b8228bd3adc87ec"
+          }
+        },
+        {
+          "client_id": "403587030137-jb90rpul2gavc30kvsac4egc84g67odk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNqcqzhg7brvGvL7sH3mkY-Yah0d2bC2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "403587030137-jb90rpul2gavc30kvsac4egc84g67odk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
