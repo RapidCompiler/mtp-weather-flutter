@@ -4,6 +4,6 @@ This app is part of my first IoT project wherein, weather data at Mettupalayam i
 
 The APK for this app can be downloaded from **any one** of the following links.
 
-**Link 1:** https://revmatcher.s3.ap-south-1.amazonaws.com/app-release.apk
+**Link 1:** https://revmatcher.s3.ap-south-1.amazonaws.com/MTP+Weather.apk
 
-**Link 2:** https://www.dropbox.com/s/ev065ncdsint23p/app-release.apk?dl=1
+**Link 2:** https://www.dropbox.com/s/uqbvo9yhmt42nzv/MTP%20Weather.apk?dl=1
